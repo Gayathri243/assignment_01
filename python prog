@@ -1,0 +1,8 @@
+a = input("enter the list1: ")
+list1= 12,-7,5,64,-14
+print(list1(0),list1(4),list1(8))
+12,5,14
+
+S1=[12,14,-95,3]
+print(s1(0),s1(2),s1(5))
+12,14,3
